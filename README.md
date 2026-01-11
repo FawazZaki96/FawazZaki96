@@ -19,5 +19,5 @@ My background spans sales, marketing, and analytics, with strong interest in con
 - ECBA and analytics consulting readiness  
 
 ### 🔹 Tools
-Python | SQL | Pandas | NumPy | Power BI (or Tableau if you use later)
+Python | SQL | Pandas | NumPy | Power BI
 
