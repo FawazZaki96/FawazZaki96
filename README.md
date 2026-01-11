@@ -6,7 +6,7 @@ My background spans sales, marketing, and analytics, with strong interest in con
 
 ### 🔹 Core Skills
 - Business Analysis & Requirements Thinking  
-- Data Analysis & EDA (Python, SQL, Pandas)  
+- Data Analysis & EDA (Python, SQL, Numpy, Pandas, Matplotlib, Seaborn)  
 - KPI Design & Performance Measurement  
 - Consulting-Style Problem Structuring  
 - Data-Driven Decision Support  
@@ -15,7 +15,7 @@ My background spans sales, marketing, and analytics, with strong interest in con
 - Business analytics case studies  
 - SQL for business questions  
 - Data quality & cleaning pipelines  
-- Applied AI & ML for business use cases  
+- Applied AI & ML for business use cases
 - ECBA and analytics consulting readiness  
 
 ### 🔹 Tools
