@@ -1,23 +1,85 @@
-# 👋 Hi, I'm Fawaz
+# 👋 Hi, I'm Fawaz  
 
-I am a **Business & Data Analyst** with a business-owner mindset, focused on translating data into actionable insights for real-world decision making.
+**Business Analyst | Turning Data into Business Decisions**
 
-My background spans sales, marketing, and analytics, with strong interest in consulting, telco, and e-commerce domains. I work on structured problem solving, KPI analysis, data cleaning, and insight-driven recommendations.
+I analyze business problems using data and translate them into **clear insights and actionable recommendations**.
 
-### 🔹 Core Skills
-- Business Analysis & Requirements Thinking  
-- Data Analysis & EDA (Python, SQL, Numpy, Pandas, Matplotlib, Seaborn)  
+My work focuses on real-world scenarios such as:
+- Customer churn & retention  
+- Marketing campaign performance  
+- Sales & profitability analysis  
+- Employee attrition  
+
+I approach analysis with a **business-first mindset**:
+→ Structure the problem  
+→ Identify key drivers  
+→ Deliver decision-ready insights  
+
+---
+
+## 🔹 Core Skills  
+
+- Business Analysis & Problem Structuring  
 - KPI Design & Performance Measurement  
-- Consulting-Style Problem Structuring  
+- Segmentation & Root Cause Analysis  
+- Data Cleaning & Exploratory Analysis  
 - Data-Driven Decision Support  
 
-### 🔹 Current Focus
-- Business analytics case studies  
-- SQL for business questions  
-- Data quality & cleaning pipelines  
-- Applied AI & ML for business use cases
-- ECBA and analytics consulting readiness  
+---
 
-### 🔹 Tools
-Python | SQL | Pandas | NumPy | Power BI
+## 🔹 Tools  
 
+- **Excel** (Data Cleaning, Analysis)  
+- **Power BI** (Dashboarding & Visualization)  
+- **SQL** (Learning – applied in business scenarios)  
+- **Python (Pandas, NumPy, Matplotlib)** *(Developing)*  
+
+---
+
+## 🔹 Featured Projects  
+
+### 📊 Sales & Profit Analysis  
+🔗 [View Project](https://github.com/FawazZaki96/sales-profit-analysis)
+
+![Sales Dashboard](./sales-profit-analysis/images/sales-dashboard.png)
+
+- Identified low-margin categories despite strong revenue  
+- Highlighted profitability gaps and improvement opportunities  
+
+---
+
+### 🔥 Customer Churn Analysis  
+🔗 [View Project](https://github.com/FawazZaki96/customer-churn-analysis)
+
+![Churn Dashboard](./customer-churn-analysis/images/churn-dashboard.png)
+
+- Discovered high-risk segment: inactive customers with 1 product (~36% churn)  
+- Provided targeted retention strategy recommendations  
+
+---
+
+### 📢 Marketing Campaign Analysis  
+🔗 [View Project](https://github.com/FawazZaki96/marketing-campaign-segmentation_analysis)
+
+![Marketing Dashboard](./marketing-campaign-segmentation_analysis/images/marketing-dashboard.png)
+
+- Identified high-value segments with 3–4x higher response rates  
+- Enabled more efficient marketing budget allocation  
+
+---
+
+### 👥 HR Attrition Analysis  
+🔗 [View Project](https://github.com/FawazZaki96/hr-attrition-analysis)
+
+![HR Dashboard](./hr-attrition-analysis/images/hr-dashboard.png)
+
+- Found overtime employees are ~3x more likely to leave  
+- Delivered insights for workforce retention strategies  
+
+---
+
+## 🔹 Current Focus  
+
+- Strengthening SQL for analytical querying  
+- Expanding Python for EDA and automation  
+- Building end-to-end analytics workflows  
