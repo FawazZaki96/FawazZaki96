@@ -32,7 +32,7 @@ I approach analysis with a **business-first mindset**:
 - **Excel** (Data Cleaning, Analysis)  
 - **Power BI** (Dashboarding & Visualization)  
 - **SQL** (Data extraction, joins, aggregation, business insights)  
-- **Python (Pandas, NumPy, Matplotlib)** *(Developing)*  
+- **Python (Pandas, NumPy, Matplotlib)**
 
 ---
 
