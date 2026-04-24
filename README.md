@@ -31,7 +31,7 @@ I approach analysis with a **business-first mindset**:
 
 - **Excel** (Data Cleaning, Analysis)  
 - **Power BI** (Dashboarding & Visualization)  
-- **SQL** (Learning – applied in business scenarios)  
+- **SQL** (Data extraction, joins, aggregation, business insights)  
 - **Python (Pandas, NumPy, Matplotlib)** *(Developing)*  
 
 ---
@@ -51,7 +51,7 @@ I approach analysis with a **business-first mindset**:
 ### 🔥 Customer Churn Analysis  
 🔗 [View Project](https://github.com/FawazZaki96/customer-churn-analysis)
 
-![Churn Dashboard](./customer-churn-analysis/images/churn-dashboard.png)
+![Churn Dashboard](https://raw.githubusercontent.com/FawazZaki96/customer-churn-analysis/main/images/churn_dashboard.png)
 
 - Discovered high-risk segment: inactive customers with 1 product (~36% churn)  
 - Provided targeted retention strategy recommendations  
@@ -61,7 +61,7 @@ I approach analysis with a **business-first mindset**:
 ### 📢 Marketing Campaign Analysis  
 🔗 [View Project](https://github.com/FawazZaki96/marketing-campaign-segmentation_analysis)
 
-![Marketing Dashboard](./marketing-campaign-segmentation_analysis/images/marketing-dashboard.png)
+![Marketing Dashboard](https://raw.githubusercontent.com/FawazZaki96/marketing-campaign-segmentation_analysis/main/images/Dashboard_Marketing_Analysis.png)
 
 - Identified high-value segments with 3–4x higher response rates  
 - Enabled more efficient marketing budget allocation  
@@ -71,7 +71,7 @@ I approach analysis with a **business-first mindset**:
 ### 👥 HR Attrition Analysis  
 🔗 [View Project](https://github.com/FawazZaki96/hr-attrition-analysis)
 
-![HR Dashboard](./hr-attrition-analysis/images/hr-dashboard.png)
+![HR Dashboard](https://raw.githubusercontent.com/FawazZaki96/hr-attrition-analysis/main/images/01_overview.png)
 
 - Found overtime employees are ~3x more likely to leave  
 - Delivered insights for workforce retention strategies  
