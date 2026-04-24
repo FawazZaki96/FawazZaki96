@@ -41,7 +41,7 @@ I approach analysis with a **business-first mindset**:
 ### 📊 Sales & Profit Analysis  
 🔗 [View Project](https://github.com/FawazZaki96/sales-profit-analysis)
 
-![Sales Dashboard](./sales-profit-analysis/images/sales-dashboard.png)
+![Sales Dashboard](https://raw.githubusercontent.com/FawazZaki96/sales-profit-analysis/main/images/sales-dashboard.png)
 
 - Identified low-margin categories despite strong revenue  
 - Highlighted profitability gaps and improvement opportunities  
