@@ -76,10 +76,3 @@ I approach analysis with a **business-first mindset**:
 - Found overtime employees are ~3x more likely to leave  
 - Delivered insights for workforce retention strategies  
 
----
-
-## 🔹 Current Focus  
-
-- Strengthening SQL for analytical querying  
-- Expanding Python for EDA and automation  
-- Building end-to-end analytics workflows  
